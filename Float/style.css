@@ -1,0 +1,14 @@
+img {
+    float: left;
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  #information, #contact {
+    float: right;
+    width: 74%;
+    padding-left: 20;
+    box-sizing: border-box;
+  }
+  
