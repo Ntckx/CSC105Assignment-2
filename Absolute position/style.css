@@ -1,10 +1,10 @@
 #information{
-    position: relative;
+    position: absolute;
     left: 400px;
-    bottom:275px;
+    bottom: 450px;
 }
-.content{
-    position:relative;
-    top: 250px;
-    left:200px;
+#contact{
+    position:absolute;
+    top: 135px;
+    left:400px;
 }
